@@ -1,0 +1,14 @@
+/home/anr/Novo(a)/16 - Simula’s Test/bin/Debug/net8.0/16 - Simula’s Test
+/home/anr/Novo(a)/16 - Simula’s Test/bin/Debug/net8.0/16 - Simula’s Test.deps.json
+/home/anr/Novo(a)/16 - Simula’s Test/bin/Debug/net8.0/16 - Simula’s Test.runtimeconfig.json
+/home/anr/Novo(a)/16 - Simula’s Test/bin/Debug/net8.0/16 - Simula’s Test.dll
+/home/anr/Novo(a)/16 - Simula’s Test/bin/Debug/net8.0/16 - Simula’s Test.pdb
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.AssemblyInfoInputs.cache
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.AssemblyInfo.cs
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.csproj.CoreCompileInputs.cache
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.dll
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/refint/16 - Simula’s Test.dll
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.pdb
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/16 - Simula’s Test.genruntimeconfig.cache
+/home/anr/Novo(a)/16 - Simula’s Test/obj/Debug/net8.0/ref/16 - Simula’s Test.dll
